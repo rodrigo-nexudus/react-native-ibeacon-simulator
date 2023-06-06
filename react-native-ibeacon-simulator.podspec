@@ -3,7 +3,7 @@ package = JSON.parse(File.read('./package.json'))
 
 Pod::Spec.new do |s|
   s.dependency      "React"
-  s.name            = package['name']
+  s.name            = 'react-native-ibeacon-simulator'
   s.version         = package["version"]
   s.license         = package["license"]
   s.summary         = package["description"]

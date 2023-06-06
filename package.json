@@ -1,13 +1,13 @@
 {
   "name": "@rodrigo7/react-native-ibeacon-simulator",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "A package to simulate your mobile devices as iBeacons",
   "author": "Nexudus Ltd.",
   "nativePackage": true,
   "homepage": "https://github.com/rodrigo-nexudus/react-native-ibeacon-simulator.git",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rodrigo-nexudus/react-native-ibeacon-simulator.git"
+    "url": "https://github.com/rodrigo-nexudus/react-native-ibeacon-simulator.git"
   },
   "keywords": [
     "react-native",
