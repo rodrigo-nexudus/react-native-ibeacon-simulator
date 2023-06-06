@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ibeacon-simulator",
+  "name": "@rodrigo7/react-native-ibeacon-simulator",
   "version": "1.0.11",
   "description": "A package to simulate your mobile devices as iBeacons",
   "author": "Nexudus Ltd.",
